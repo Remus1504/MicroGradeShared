@@ -19,7 +19,7 @@
   "author": "Remus Watters",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Remus1504/micrograde-shared.git"
+    "url": "git+https://github.com/Remus1504/MicroGradeShared"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
